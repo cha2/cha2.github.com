@@ -65,12 +65,17 @@
 .index_banner h3 {
     color: #fff;
     font-size: 24px;
-    margin-right: 485px
+    margin-right: 500px
+}
+
+.footer {
+    border-left: 300px solid #f5f5f5;
+    border-right: 300px solid #f5f5f5;
 }
 
 .index_container {
-    margin-left: 500px;
-    margin-right: 450px;
+    margin-left: 170px;
+    margin-right: 120px;
 }
 
 .index_container img {
@@ -89,13 +94,13 @@
 
 .index_container h6 {
     color: #adadad;
-    margin-top: -20px;
+    margin-top: -10px;
 }
 
 .index_container h5 {
     color: #adadad;
     font-size: 12px;
-    margin-top: -20px;
+    margin-top: -10px;
     margin-bottom: 30px;
 }
 
