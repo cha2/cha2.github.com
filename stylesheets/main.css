@@ -48,6 +48,13 @@
     height: 500px;
 }
 
+.index_banner .image img {
+    width: 350px;
+    height: 250px;
+    margin-top: 120px;
+    margin-left: -20px
+}
+
 .index_banner .slogan_wrapper {
     float: left;
     margin-left: 780px;
@@ -55,12 +62,13 @@
 }
 
 .index_banner .slogan_wrapper img {
-    width: 250px
+    width: 250px;
+    margin-top: -570px;
 }
 
 .index_banner .button img {
     width: 240px;
-    margin-top: 259px;
+    margin-top: -120px;
     margin-left: -245px
 }
 
@@ -81,5 +89,5 @@
 }
 
 #margin {
-    padding-top: 25px
+    padding-top: 25px;
 }
