@@ -20,6 +20,15 @@
     text-transform: uppercase;
 }
 
+#color {
+    border-bottom: 5px solid #61a509;
+    padding-bottom: 5px;
+}
+
+#ls {
+    color: #606060;
+}
+
 .nav ul {
     float: left;
     padding-left: 0;
