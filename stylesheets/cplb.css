@@ -75,7 +75,7 @@
 
 .row {
     margin-top: 80px;
-    margin-left: 70px
+    margin-left: 90px
 }
 
 .products li {
@@ -90,6 +90,13 @@
 
 .products li b {
     font-size: 16px
+}
+
+.products li img {
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+    padding-top: 20px
 }
 
 .products .productsli {
