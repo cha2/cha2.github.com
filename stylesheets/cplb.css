@@ -125,7 +125,8 @@
 
 .page_num {
     margin-top: 60px;
-    margin-left: 450px;
+    margin-left: 440px;
+    padding-left: 10px;
 }
 
 .page_num li {
@@ -156,16 +157,17 @@
 
 .page_num li a:hover {
     color: #fff;
+    width: 33px;
+    height: 33px;
+    background: #62ae00;
+    border-radius: 50px;
+    position: relative;
 }
 
-#circle {
-    color: #fff;
-    width: 30px;
-    height: 30px;
-    background: #62ae0e;
-    -moz-border-radius: 50px;
-    -webkit-border-radius: 50px;
-    border-radius: 50px; 
+#page_back {
+    margin-left: 650px;
+    background: #62ae00;
+    position: absolute
 }
 
 .index_container {
