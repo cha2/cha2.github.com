@@ -164,8 +164,12 @@
     position: relative;
 }
 
+.page_num li a:hover span {
+    
+}
+
 #page_back {
-    margin-left: 650px;
+    margin-left: 644px;
     background: #62ae00;
     position: absolute
 }

@@ -1,0 +1,46 @@
+
+
+.container {
+    text-align: center; 
+}
+
+.container .nl-content .nl-logo-area img {
+    margin-top: 50px
+}
+
+.container .nl-content h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.container .nl-content h3 {
+    color: #8d8d8d;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.container .nl-content .form-group input {
+    width: 280px;
+    height: 40px
+}
+
+#inputPassword3 {
+    margin-top: -2px
+}
+
+.container .nl-content button {
+    margin-top: 10px;
+    width: 295px;
+    height: 40px;
+}
+
+.container .nl-content .ng-link-area {
+    margin-top: 10px;
+    margin-left: 150px;
+    padding-left: 10px
+}
+
+.container .nl-content .ng-link-area span a {
+    color: #8d8d8d;
+    font-size: 12px;
+}
