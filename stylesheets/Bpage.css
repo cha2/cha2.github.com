@@ -1,0 +1,72 @@
+
+
+.container .nl-content .nl-logo-area img {
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 40px
+}
+
+.container .nl-content .slogan {
+	margin-left: 1000px;
+	margin-top: -80px ;
+	margin-bottom: 100px
+
+}
+
+.container .nl-content .slogan a {
+	color: #000;
+	font-size: 16px;
+	float: left;
+	font-weight: 900;
+	margin-left: 20px;
+
+}
+
+.container .nl-content .row .goods-pic-box img {
+	width: 350px;
+	height: 300px;
+	margin-top: 20px;
+	margin-left: 200px;
+}
+
+.container .nl-content .good-inpt-head {
+	margin-left: 750px;
+	margin-top: -300px;
+}
+
+.container .nl-content .good-inpt-head h3 {
+	color: #14bd0c;
+}
+
+.container .nl-content form {
+	margin-left: 750px;
+}
+
+.container .nl-content button {
+	margin-top: 55px;
+	width: 170px;
+	height: 40px
+}
+
+.container .nl-content .msg a img {
+	width: 20px;
+	height: 20px;
+	margin-left: 750px;
+	margin-top: 25px
+}
+
+.container .nl-content .msg a p {
+	margin-left: 770px;
+	margin-top: -20px;
+	font-size: 15px;
+	color: #000;
+}
+
+.container .nl-content .msg a:hover {
+	text-decoration: none;
+}
+
+.container .nl-content .msg p:hover {
+	color: #14bd0c;
+}
