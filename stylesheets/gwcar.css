@@ -27,3 +27,34 @@
 	margin-left: 20px;
 
 }
+
+hr {
+	width: 1390px;
+	margin-left: -110px;
+}
+
+.container .nl-content .banner {
+	width: 1390px;
+	height: 500px;
+	margin-top: -20px;
+	margin-left: -110px;
+	background-color: #f5f5f5;
+}
+
+.container .nl-content .banner  img {
+	margin-top: 30px;
+	margin-left: 300px
+}
+
+.container .nl-content .banner h1 {
+	color: #b0b0b0;
+	margin-left: 700px;
+	margin-top: -300px
+}
+
+.container .nl-content .banner button {
+	width: 180px;
+	height: 55px;
+	margin-top: 50px;
+	margin-left: 700px;
+}
