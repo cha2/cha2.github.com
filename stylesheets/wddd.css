@@ -52,5 +52,13 @@
     border-bottom: 1px solid #000;
 }
 
+.container .row .box-bs .order img {
+    margin-left: 20px;
+    margin-top: 20px
+}
 
-
+.container .row .box-bs .order ul li table tbody p {
+    margin-left: 110px;
+    margin-top: -50px;
+    margin-bottom: 50px
+}
